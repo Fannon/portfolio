@@ -1,0 +1,271 @@
+///////////////////////////////
+// Imports                   //
+///////////////////////////////
+
+@import "settings";
+@import "normalize";
+@import "foundation/components/grid";
+@import "foundation/components/global";
+@import "foundation/components/type";
+@import "foundation/components/forms";
+@import "foundation/components/buttons";
+@import "foundation/components/alert-boxes";
+
+///////////////////////////////
+// Custom Variables          //
+///////////////////////////////
+
+$borderRadius: 2px;
+
+
+
+///////////////////////////////
+// Typographpy               //
+///////////////////////////////
+
+@font-face {
+  font-family: 'TitilliumWeb';
+  src: url('../fonts/TitilliumWeb-Regular.eot');
+  src: url('../fonts/TitilliumWeb-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/TitilliumWeb-Regular.woff') format('woff'),
+  url('../fonts/TitilliumWeb-Regular.ttf') format('truetype'),
+  url('../fonts/TitilliumWeb-Regular.svg#TitilliumWeb-Light') format('svg');
+}
+
+h1, h2, h3, h4 {
+  font-family: 'TitilliumWeb',sans-serif;
+}
+
+h3 {
+  font-size: 32px;
+  border-bottom: 1px dotted #CCC;
+}
+
+p {
+  margin-bottom: 0.5rem;
+}
+
+
+///////////////////////////////
+// Layouting                 //
+///////////////////////////////
+
+#top {
+
+  padding: 16px 0 32px 0;
+
+  // background: #171717 url(../images/darth_stripe.png);
+  color: #FFF;
+
+  background: #171717 url(../images/stripes.png) bottom left repeat-x;
+  background: -moz-linear-gradient(top,  #2a2c30 0%, #171717 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2a2c30), color-stop(100%,#171717));
+  background: -webkit-linear-gradient(top,  #2a2c30 0%,#171717 100%);
+  background: -o-linear-gradient(top,  #2a2c30 0%,#171717 100%);
+  background: -ms-linear-gradient(top,  #2a2c30 0%,#171717 100%);
+  background: linear-gradient(to bottom,  #2a2c30 0%,#171717 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2a2c30', endColorstr='#171717',GradientType=0 );
+
+  h1 {
+
+    font-size: 3em;
+    color: #FFF;
+    text-shadow: 3px 3px 3px #000;
+    margin: 3px 0;
+  }
+
+  .subline {
+    color: #C4EE29;
+  }
+}
+
+#logo-top,
+#logo-bottom {
+
+  width: 100%;
+  height: 8px;
+  background: #171717;
+  z-index: 999;
+  color: #FFF;
+
+  margin: 0 0 16px 0;
+
+  .logo-left, .logo-right, .logo-1, .logo-2, .logo-3, .logo-4 {
+    position: absolute;
+    height: inherit;
+    opacity: 0.7;
+  }
+  .logo-left {
+    left: 0;
+    width: 50%;
+    background: #670097;
+    opacity: 1;
+  }
+
+  .logo-right {
+    left: 50%;
+    width: 50%;
+    background: #C4EE29;
+    opacity: 1;
+  }
+
+  .logo-1 {
+    left: 5%;
+    width: 25%;
+    background: #43179E;
+  }
+  .logo-2 {
+    left: 15%;
+    width: 35%;
+    background: #38378B;
+  }
+  .logo-3 {
+    left: 40%;
+    width: 50%;
+    background: #1B6FC6;
+  }
+  .logo-4 {
+    left: 75%;
+    width: 25%;
+    background: #C4EE29;
+  }
+
+
+}
+
+#logo-bottom {
+  height: 4px;
+  margin: 0;
+}
+
+
+.vcard {
+  display: block;
+  border: none;
+  padding: 3px 3px 10px 3px;
+
+
+  img {
+    border: 1px solid #CCC;
+    padding: 2px;
+    border-radius: $borderRadius;
+  }
+
+
+  .fn {
+    display: block;
+    margin: 8px 0;
+    font-size: 1.2em;
+  }
+
+  .email,
+  .adr,
+  .tel {
+    font-size: 0.85em;
+    padding-top: 0px;
+  }
+
+}
+
+footer {
+  font-size: 0.8em;
+  color: #777;
+  margin: 4px 0;
+  padding: 4px 0;
+  border-top: 1px dotted #CCC;
+
+}
+
+
+.example-gallery {
+
+    h4 {
+        margin: 0;
+        padding: 0;
+        text-transform: uppercase;
+    }
+
+    .row {
+
+        margin: 0 0 8px 0;
+        background: #F7F7F7;
+        // border: 1px solid #EEE;
+        border-radius: $borderRadius;
+
+        img {
+            border: 1px solid #CCC;
+            border-radius: $borderRadius;
+            padding: 2px;
+            margin-top: 6px;
+        }
+    }
+
+    .center-image {
+        text-align: center;
+        margin-bottom: 8px;
+    }
+
+
+
+    p {
+        font-size: 0.85em;
+    }
+
+    ul.inline-list {
+        margin-left: 0;
+        padding-left: 0;
+        border-top: 1px solid #EEE;
+        border-bottom: 1px solid #EEE;
+    }
+
+    li {
+        color: #777;
+        font-size: 0.8em;
+    }
+
+    .fa-li {
+        top: 0.28em;
+    }
+}
+
+textarea {
+    height: 120px;
+}
+
+
+
+
+#social-media {
+
+    .fa:hover {
+        opacity: 0.8;
+    }
+
+    .fa-fw {
+        width: 1em !important;
+    }
+
+    .fa-facebook-square {
+        color: #3B5998;
+    }
+
+    .fa-linkedin-square {
+        color: #0073B2;
+    }
+
+    .fa-xing-square {
+        color: #015760;
+    }
+
+    .fa-github-square {
+        color: #333333;
+    }
+
+    .fa-stack-overflow {
+        color: #FF9900;
+    }
+}
+
+///////////////////////////////
+// 3rd Party                 //
+///////////////////////////////

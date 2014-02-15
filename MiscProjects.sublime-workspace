@@ -1,0 +1,1770 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ana",
+				"analogue"
+			],
+			[
+				"if",
+				"ifelse	<?php if (…) ?> … <?php else ?> … <?php endif ?>"
+			],
+			[
+				"LOG",
+				"LOG__ALL"
+			],
+			[
+				"urls",
+				"urls_development"
+			],
+			[
+				"json",
+				"parse()              // JSON"
+			],
+			[
+				"taskType",
+				"taskTypeRow"
+			],
+			[
+				"rb",
+				"rb	Rounded Borders (CSS3)"
+			],
+			[
+				"z",
+				"z-index: ${1001:$SELECTION};"
+			],
+			[
+				"back",
+				"background	background-image: url"
+			],
+			[
+				"Absence",
+				"AbsenceReason"
+			],
+			[
+				"track",
+				"track_number"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"setTime",
+				"setTimeout()        // Frame"
+			],
+			[
+				"stringify",
+				"stringify()          // JSON"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"Arial",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"schalt",
+				"schaltzeitFahren"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"text-al",
+				"text-align"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"h3",
+				"h3	Tag"
+			],
+			[
+				"h4",
+				"h4	Tag"
+			],
+			[
+				"opac",
+				"opacity	opacity: [for Safari, FF & IE]"
+			],
+			[
+				"hr",
+				"hr"
+			],
+			[
+				"br",
+				"br	Tag"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"Fannon",
+				"Fannon"
+			],
+			[
+				"Cont",
+				"Controller"
+			],
+			[
+				"Con",
+				"Controller"
+			],
+			[
+				"FAHREN",
+				"FAHREN"
+			],
+			[
+				"hor",
+				":horizontal"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"tr",
+				"tr"
+			],
+			[
+				"calc",
+				"calcPaddings"
+			],
+			[
+				"animate",
+				"animateRect"
+			],
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"algo",
+				"Algorith"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"h1",
+				"h1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/textureSwirl/js/textureSwirl.js",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/textureSwirl/shaders/textureSwirl.vert",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/textureSwirl/shaders/textureSwirl.frag",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 135.0,
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"linting",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git:",
+				"Git: Commit history"
+			],
+			[
+				"git comm",
+				"Git: Commit history"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"markd",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"browse",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"jquery aj",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"jquery ready",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"snippet",
+				"Snippet: console.log() Funktion"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"prefix",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inde",
+				"Indent Tags on Document"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"PHP",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"packet",
+				"Package Control: List Packages"
+			],
+			[
+				"project",
+				"Project: Close"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"todo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"pando",
+				"Pandoc: Render Markdown to temp HTML and View"
+			],
+			[
+				"pandoc",
+				"Pandoc: Render Markdown to temp HTML and View"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"text",
+				"Set Syntax: Textile"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"activ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"high",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"highlight",
+				"SublimeHighlight: convert to RTF"
+			],
+			[
+				"deac",
+				"Package Control: Disable Package"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syn",
+				"Set Syntax: JSON"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"packag",
+				"Package Control: Enable Package"
+			],
+			[
+				"clip",
+				"Clipboard History"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"indend",
+				"Indent Tags on Document"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"python",
+				"Set Syntax: Python Django"
+			],
+			[
+				"django",
+				"Set Syntax: Python Django"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"past",
+				"Pastebin: Post"
+			],
+			[
+				"pack ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Background Linting"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 236.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/textureSwirl/textureSwirl.html",
+		"/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/textureQuad/js/textureQuad.js",
+		"/D/Down/.htaccess",
+		"/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/animatedTriangle/js/animatedTriangle.js",
+		"/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/interactionTriangle/js/interactionTriangle.js",
+		"/D/Projekte/Software/obacht/server/obacht-server.js",
+		"/D/Projekte/Software/amvis/node_modules/socket.io/lib/transports/htmlfile.js",
+		"/D/Projekte/Software/obacht/client/closure/closure/goog/format/htmlprettyprinter_test.html",
+		"/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/animatedTriangle/animatedTriangle.html",
+		"/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/simpleTriangle/js/simpleTriangle.js",
+		"/D/Projekte/Software/libertas-ev/script.js",
+		"/D/Projekte/Software/libertas-ev/pwd.js",
+		"/D/Projekte/Software/libertas-ev/pwd.php",
+		"/D/Projekte/Software/libertas-ev/index.html",
+		"/D/Projekte/Software/obacht/client/obacht/compiled/hw.js",
+		"/D/Projekte/Software/libertas-ev/livestream.html",
+		"/C/Users/Simon/AppData/Local/Temp/fz3temp-1/datensicherung.txt",
+		"/D/Projekte/Software/libertas-ev/pwd.json",
+		"/D/Projekte/Software/libertas-ev/pwd.txt",
+		"/C/PortableApps/SublimeText/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Projekte/Software/obacht/server/servertest.html",
+		"/C/Users/Simon/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/D/Transfer/Konfigurationen/CMD/symlinks.bat",
+		"/D/Projekte/Software/#Lernen/Lerne-Python/02-Kontrollfluss/schleifen.py",
+		"/D/Projekte/Software/#Lernen/Lerne-Python/01-Syntax-Datentypen/datenstrukturen.py",
+		"/D/Projekte/Software/#Lernen/Lerne-Python/01-Syntax-Datentypen/datentyp-bestimmen.py",
+		"/D/Projekte/Software/#Lernen/Lerne-Python/01-Syntax-Datentypen/typumwandlung.py",
+		"/D/Projekte/Software/#Lernen/Lerne-Python/01-Syntax-Datentypen/wertzuweisungen.py",
+		"/D/Projekte/Software/#Lernen/Lerne-JAVA/Verschiedenes/src/BasicDrawingTut/Skeleton.java",
+		"/D/Projekte/Software/#Lernen/JavaScript/ #Miniprojekte/json-client.js",
+		"/D/Projekte/Software/#Lernen/JavaScript/#Snippets/li_zu_links.js",
+		"/D/Projekte/Software/#Lernen/JavaScript/#Snippets/associativeArrayDictionary.js",
+		"/D/Projekte/Software/obacht/client/closure/closure/goog/css/css3button.css",
+		"/D/Projekte/Software/obacht/.gitignore",
+		"/D/Projekte/Software/amvis/.gitignore",
+		"/D/Projekte/Software/obacht/wiki/JavaScript-Workshop.md",
+		"/D/Projekte/Software/obacht/wiki/JavaScript-Workshop.html",
+		"/C/Users/Simon/AppData/Roaming/npm/node_modules/gfm/res/github2.css",
+		"/D/Dropbox/Transfer/Konfigurationen/Bash/home/fannon/.bashrc",
+		"/C/Users/Simon/AppData/Roaming/npm/node_modules/gfm/lib/gfm.js",
+		"/C/Users/Simon/AppData/Roaming/npm/node_modules/gfm/lib/generate.js",
+		"/C/Users/Simon/AppData/Roaming/npm/node_modules/gfm/lib/resources.js",
+		"/D/Projekte/Software/obacht/wiki/presenting.html",
+		"/C/Users/Simon/AppData/Roaming/npm/node_modules/gfm/res/github.css",
+		"/D/Projekte/Software/obacht/tech-demos/nodejs-server/client.js",
+		"/D/Projekte/Software/obacht/wiki/JavaScript-Conventions,-Ressourcen-und-Best-Practices.html",
+		"/D/Projekte/Software/obacht/wiki/presenting.css",
+		"/D/Projekte/Software/amvis/amvis-server.js",
+		"/D/Projekte/Software/obacht/tech-demos/nodejs-server/server.js",
+		"/D/Projekte/Software/obacht/server/package.json",
+		"/D/Projekte/Software/obacht/server/README.md",
+		"/D/Projekte/Software/amvis/package.json",
+		"/D/Projekte/Software/obacht/tech-demos/nodejs-server/pingpong.html",
+		"/D/Projekte/Software/obacht/server/.gitignore",
+		"/D/Projekte/Software/obacht/server/server.js",
+		"/D/Projekte/Software/amvis/client/lib/color.js",
+		"/D/Projekte/Software/amvis/client/js/client.js",
+		"/D/Projekte/Software/amvis/controller-server.js",
+		"/D/Projekte/Software/amvis/client/index.html",
+		"/D/Projekte/Software/amvis/controller/js/controller.js",
+		"/D/Projekte/Software/amvis/client/js/programs.js",
+		"/D/Projekte/Software/amvis/start.sh",
+		"/D/Projekte/Software/ambient-visualizer/client/js/programs.js",
+		"/D/Projekte/Software/ambient-visualizer/client/default-settings.js",
+		"/D/Projekte/Software/ambient-visualizer/client/lib/color.js",
+		"/D/Projekte/Software/#Forking/color-js/color.js",
+		"/D/Projekte/Software/MiscProjects.sublime-project",
+		"/D/Projekte/Software/amvis/index.html",
+		"/D/Projekte/Software/amvis/default-settings.js",
+		"/D/Projekte/Software/amvis/controller/index.html",
+		"/D/Projekte/Software/amvis/README.md",
+		"/D/Projekte/Software/ambient-visualizer/client/js/client.js",
+		"/D/Projekte/Software/amvis/client/default-settings.js",
+		"/D/Projekte/Software/amvis/server/public",
+		"/D/Projekte/Software/amvis/server/controller-server.js",
+		"/C/PortableApps/SublimeText/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Projekte/Software/ambient-visualizer/controller/js/controller.js",
+		"/D/Projekte/Software/ambient-visualizer/controller/index.html",
+		"/C/PortableApps/SublimeText/Data/Packages/User/Preferences.sublime-settings",
+		"/C/PortableApps/SublimeText/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/PortableApps/SublimeText/Data/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/Projekte/vortrag.md",
+		"/D/Projekte/Software/ambient-visualizer/controller/css/controller.css",
+		"/D/Projekte/Software/ambient-visualizer/controller/lib/visualizer-controller.css",
+		"/D/Projekte/Software/ambient-visualizer/server/controller-server.js",
+		"/D/Projekte/Software/ambient-visualizer/server/start.sh",
+		"/D/Projekte/Software/ambient-visualizer/client/index.html",
+		"/D/Projekte/Software/obacht/wiki/_Sidebar.md",
+		"/D/Projekte/Software/obacht/wiki/home.md",
+		"/D/Projekte/Software/obacht/wiki/JavaScript-Conventions,-Ressourcen-und-Best-Practices.md",
+		"/D/Projekte/Software/obacht/tech-demos/nodejs-server/broadcast.html",
+		"/D/Projekte/Software/obacht/tech-demos/nodejs-server/start.sh",
+		"/D/Projekte/Software/obacht/javascript-conventions.js",
+		"/C/Users/Simon/Desktop/index.html",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/server/controller-server.js",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/server/start.sh",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/controller/index.html",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/client/default-settings.js",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/controller/css/controller.css",
+		"/D/Projekte/Software/i6-semesterprojekt/tech-demos/nodejs-server/start.sh",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/client/js/client.js",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/client/index.html",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/client/js/programs.js",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/client/css/client.css",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/client/lib/color.js",
+		"/D/Projekte/Software/i6-interaktionsprogrammierung/controller/js/controller.js",
+		"/D/Projekte/Software/obacht/helloworld/helloworld.html",
+		"/D/Projekte/Software/obacht/helloworld/helloworld.js",
+		"/D/Projekte/Software/obacht/tech-demos/helloworld/helloworld.html",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/server/server.js",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/default-settings.js",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/client/default-settings.js",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/client/lib/color.js",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/client/lib/quantize.js",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/client/js/modul-colorpalette.js",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/client/settings.json",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/client/js/controller.js",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/client/controller.html",
+		"/C/Users/Simon/AppData/Local/Temp/7zE8175D4EE/app.html",
+		"/C/Users/Simon/Desktop/app.html",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/client/index.html",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/client/css/client.css",
+		"/C/Users/Simon/Desktop/color-thief-master/js/color-thief.js",
+		"/C/Users/Simon/Desktop/color-thief-master/js/libs/quantize.js",
+		"/D/Projekte/Software Projekte/i6-interaktionsprogrammierung/controller/index.html",
+		"/D/Projekte/Software Projekte/i6-semesterprojekt/tech-demos/BluetoothChat/src/com/example/android/BluetoothChat/BluetoothChat.java",
+		"/D/Projekte/Software Projekte/i6-semesterprojekt/tech-demos/nodejs-server/server.js",
+		"/D/Projekte/Software Projekte/i6-semesterprojekt/tech-demos/nodejs-server/broadcast.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"base",
+			"_log",
+			"join",
+			"leave",
+			"join(",
+			"console.",
+			"console.log",
+			"module",
+			"toCSS",
+			"module",
+			"rgbToString",
+			"_fromRGB",
+			"ec2",
+			"colorObject",
+			"metaDataObject['colors']",
+			"colorObject",
+			"calculateColors",
+			"pixelCount",
+			"msg",
+			"settings",
+			"rgbToHex",
+			"analogue",
+			"analou",
+			"broadcastAvg",
+			"pingPong",
+			"indent",
+			"startup",
+			"width:",
+			"<li id=\"menu-24543-1\" class=\"last odd sf-item-9 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent\"><a href=\"/english/welcome\" title=\"International (English)\" class=\"sf-depth-1 menuparent sf-with-ul\"><img src=\"http://gebetshaus.org/sites/all/themes/gebetshaus_3/icons/us.png\" alt=\"International\"><span class=\"sf-sub-indicator\"> »</span></a><ul style=\"float: none; width: 16.5em; display: none; visibility: hidden;\"><li id=\"menu-24544-1\" class=\"first odd sf-item-1 sf-depth-2 sf-no-children\" style=\"white-space: normal; float: left; width: 100%;\"><a href=\"/english/vision\" title=\"\" class=\"sf-depth-2\" style=\"float: none; width: auto;\">Vision</a></li><li id=\"menu-24546-1\" class=\"middle even sf-item-2 sf-depth-2 sf-no-children\" style=\"white-space: normal; float: left; width: 100%;\"><a href=\"/english/intercessory-missionaries\" title=\"\" class=\"sf-depth-2\" style=\"float: none; width: auto;\">Intercessory Missionaries</a></li><li id=\"menu-24545-1\" class=\"middle odd sf-item-3 sf-depth-2 sf-no-children\" style=\"white-space: normal; float: left; width: 100%;\"><a href=\"/english/history\" title=\"\" class=\"sf-depth-2\" style=\"float: none; width: auto;\">History</a></li><li id=\"menu-24548-1\" class=\"middle even sf-item-4 sf-depth-2 sf-no-children\" style=\"white-space: normal; float: left; width: 100%;\"><a href=\"/english/visit-us-contact\" title=\"\" class=\"sf-depth-2\" style=\"float: none; width: auto;\">Visit / Contact us</a></li><li id=\"menu-24547-1\" class=\"last odd sf-item-5 sf-depth-2 sf-no-children\" style=\"white-space: normal; float: left; width: 100%;\"><a href=\"/english/donate\" title=\"\" class=\"sf-depth-2\" style=\"float: none; width: auto;\">Donate</a></li></ul></li>",
+			"1200",
+			"files",
+			"header",
+			"0A0A0A",
+			"#logo",
+			"superfish",
+			"ul#superfish-1",
+			"if ((count($categories) > 1) || !isset($default_category)) {",
+			"Watermark",
+			"Google Drive\\",
+			".resizable-textarea",
+			"resize",
+			"ViewRange",
+			"DetailShadowMapSize",
+			"ViewRange",
+			"impressum",
+			"primary",
+			"gd",
+			"apc",
+			"pp_social",
+			"weiterlesen",
+			"PS1",
+			"cpudata",
+			"forms",
+			"resize",
+			"22px",
+			"errorlogTbody",
+			"append",
+			"showAs",
+			"test",
+			"_log(",
+			"_log",
+			"/monitoring/public",
+			"TIMESTAMP_IN",
+			"TIMESTAM_IN",
+			"TIMESTAM_PIN",
+			"instances",
+			"th",
+			"<?",
+			"themes",
+			"ajaxAction",
+			"ajax",
+			"dbNames",
+			"_dbNames",
+			"Bitte mindestens eine Datenbank auswählen",
+			"resize",
+			"$this->view->success",
+			"$this->view->success ",
+			"$this->view->success",
+			"success",
+			"errors",
+			"error",
+			"duration",
+			"overlay",
+			"mediaZoomIcon",
+			"duration: ",
+			"duration: 0.5",
+			"zoom",
+			"convert -",
+			"convert",
+			"rotate",
+			"convert '.$this->getMediaRootPath(",
+			"cmyk",
+			"jpeg",
+			"jpg",
+			"<delegate decode=\"eps\" encode=\"ps\" mode=\"bi\" command='\"gs\" -q -dBATCH \n      -dSAFER -dMaxBitmap=500000000 -dNOPAUSE -dAlignToPixels=0\n      -sDEVICE=\"pswrite\" -sOutputFile=\"%o\" -f\"%i\"' />",
+			"firewall",
+			"append",
+			"errorHelper",
+			"65",
+			"60px",
+			"table",
+			"errorHelper()",
+			"desc",
+			"scripts/",
+			"center",
+			"align",
+			"id",
+			"class",
+			"br",
+			"dt",
+			"TIMESTAMP_IN",
+			"error",
+			"errors",
+			"ul",
+			"select all",
+			"status",
+			"testing",
+			">getHelper('json')",
+			"manageSQLSelection",
+			"firewall",
+			"smallPadding",
+			"portal",
+			"row",
+			"Auswahl des SQL-Inputs",
+			"$this->view->dbUpdateForm",
+			"<dd>",
+			"dd",
+			"changeVersion-label"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"leaveRoom",
+			"joinRoom(",
+			"imageData",
+			"metaDataObject['image']",
+			"imageData",
+			"calculateImageData",
+			"rgbToString",
+			"analog",
+			"broadcast",
+			"benchmark",
+			"Dropbox\\",
+			"cronruntimedata",
+			"sqlInner",
+			"_log($sql);",
+			"// _log('SQL: ' . $sql);",
+			"array",
+			"url",
+			"html",
+			"boxWrapper",
+			"taskTypeGraph",
+			"taskGraph",
+			"taskCounter",
+			"gebetshaus_org_m",
+			"icon",
+			"tooltip",
+			"h3",
+			"IAM Raum II\\720p\\",
+			"triggerEvent",
+			"processEvent",
+			"",
+			"Event",
+			"description",
+			"utilitys.getIP",
+			"utilitys.cleanInput",
+			"utilitys.shuffle",
+			"utilitys.addToHistory",
+			"addToHistory(historyArray, obj);",
+			"addToHistory(historyArray, json);",
+			"exports.mid",
+			"exports.uid",
+			"exports.farbArray",
+			"exports.usersonlineSet",
+			"exports.historyArray",
+			"exports.FILELOG",
+			"exports.gastname",
+			"exports.historysize",
+			"exports.DEBUG",
+			"exports.",
+			"E4272B",
+			"F3EC9F",
+			"io",
+			"getIP",
+			"server",
+			"farbArray",
+			"Msg",
+			"webSocket",
+			"http",
+			"111",
+			"gebetshaus_3",
+			"98C22E",
+			"fannon_v2",
+			"p-v4",
+			"v3",
+			"o720p",
+			"720p-v2",
+			"_thumb",
+			"Controller.setAus",
+			"Controller.ausgeschaltet",
+			"Controller.modus",
+			"<img id=\"sidebarpic\" width=\"270px\" src=\"img/XIOscreenLive.jpg\" alt=\"XIOscreen Beispielbild\" />",
+			"alt=\"Logo HS Augsburg\"",
+			"386",
+			"640",
+			"386",
+			"640",
+			"f1",
+			"<a href=\"impressum.html#impressum\">Impressum</a>",
+			"<a href=\"impressum.html#impressum\">",
+			"XIOscreen",
+			"valNumber",
+			"Controller.params.",
+			"this",
+			"Controller.paper.",
+			"Controller.generate();",
+			"Math.rndHex(",
+			"Math.rnd(",
+			"Controller.tagZyklus",
+			"Controller.ausschalten",
+			"gruenphase",
+			"rotphase",
+			"Controller.schaltzeitHalten",
+			"Controller.schaltzeitFahren",
+			"Controller.pufferzeit",
+			"strasseNeben",
+			"strasseHaupt",
+			"farbeHex",
+			"ampelNebenRechts",
+			"ampelNebenLinks",
+			"Controller",
+			"Ref.",
+			"Parameters.",
+			"id",
+			"Parameters.count",
+			"Parameters.posX",
+			"Paper.init()",
+			" : ",
+			"minsize",
+			"maxsize",
+			"minsize",
+			"Parameters.setDefaults(",
+			"Parameters.get();",
+			"setDefaults"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/textureSwirl/js/textureSwirl.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1,
+							"glsv_spec": 0,
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"jquery": true,
+								"maxerr": 1600,
+								"node": true,
+								"regexdash": true,
+								"smarttabs": true,
+								"sub": true,
+								"trailing": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/textureSwirl/shaders/textureSwirl.vert",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1,
+							"glsv_spec": 0,
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"jquery": true,
+								"maxerr": 1600,
+								"node": true,
+								"regexdash": true,
+								"smarttabs": true,
+								"sub": true,
+								"trailing": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Dropbox/Dokumente/Studium/IAM/IA6-Computergrafik/Aufgaben/textureSwirl/shaders/textureSwirl.frag",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1,
+							"glsv_spec": 0,
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"jquery": true,
+								"maxerr": 1600,
+								"node": true,
+								"regexdash": true,
+								"smarttabs": true,
+								"sub": true,
+								"trailing": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.5,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.git":
+	{
+		"height": 96.0
+	},
+	"output.sftp":
+	{
+		"height": 134.0
+	},
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".css",
+				"IA6.Obacht Game/client/closure/closure/goog/css/css3button.css"
+			],
+			[
+				"html",
+				"IA6.Obacht Game/client/closure/closure/goog/format/htmlprettyprinter_test.html"
+			],
+			[
+				"color.js",
+				"IA6.Ambient Visualizer/client/lib/color.js"
+			],
+			[
+				"color",
+				"IA6.Ambient Visualizer/client/lib/color.js"
+			],
+			[
+				"start.sh",
+				"IA6.Semesterprojekt/tech-demos/nodejs-server/start.sh"
+			],
+			[
+				"server.js",
+				"IA6.Interaktion/server/server.js"
+			],
+			[
+				"index",
+				"borrman-design.mobile/index.html"
+			],
+			[
+				".js",
+				"borrmann-design.de/js/custom.js"
+			],
+			[
+				"print",
+				"gebetshaus_3/css/print.css"
+			],
+			[
+				"global",
+				"ggmacp-trunk/public/js/global.js"
+			],
+			[
+				"pdfeng",
+				"ggmacp-trunk/application/views/scripts/monitoring/pdfengine.phtml"
+			],
+			[
+				"layout",
+				"ggmacp-trunk/application/layouts/scripts/layout.phtml"
+			],
+			[
+				"custom.css",
+				"ggmacp-trunk/public/css/custom.css"
+			],
+			[
+				"detail",
+				"ggmacp-trunk/application/views/scripts/detail/detail.phtml"
+			],
+			[
+				"lay",
+				"ggmacp-trunk/application/layouts/scripts/layout.phtml"
+			],
+			[
+				"monitorjs",
+				"ggmacp-trunk/public/js/monitoring/pdfengine.js"
+			],
+			[
+				"monitoring",
+				"ggmacp-trunk/public/js/monitoring/pdfengine.js"
+			],
+			[
+				"custom",
+				"ggmacp-trunk/public/css/custom.css"
+			],
+			[
+				"newinstance",
+				"ggmacp-trunk/application/views/scripts/management/newinstance.phtml"
+			],
+			[
+				"dbupdate",
+				"ggmacp-trunk/application/views/scripts/management/dbupdate.phtml"
+			],
+			[
+				"global.js",
+				"ggmacp-trunk/public/js/global.js"
+			],
+			[
+				"imagemagick",
+				"portal/portal-trunk/system/inc/core/image_magick.class.php"
+			],
+			[
+				"ajaxmedia",
+				"portal/portal-trunk/resources/javascript/ajax.mediaZoom.js"
+			],
+			[
+				"media.js",
+				"portal/portal-trunk/resources/js/ajax/media.js"
+			],
+			[
+				"watermarkhelper",
+				"portal/portal-trunk/instances/lokalkompass.de/commands/action/helper/WatermarkActionHelper.php"
+			],
+			[
+				"",
+				"portal/portal-trunk/instances/meinbezirk.at/commands/action/helper/WatermarkActionHelper.php"
+			],
+			[
+				"watermark",
+				"portal/portal-trunk/commands/action/helper/WatermarkActionHelper.php"
+			],
+			[
+				"testcommand",
+				"portal/portal-trunk/commands/TestCommand.php"
+			],
+			[
+				".icc",
+				"portal/portal-trunk/system/library/icc/sRGB_bs.icc"
+			],
+			[
+				"media",
+				"portal/portal-trunk/commands/MediaCommand.php"
+			],
+			[
+				"test",
+				"portal/portal-trunk/commands/TestCommand.php"
+			],
+			[
+				"index.phtml",
+				"ggmacp-trunk/application/views/scripts/monitoring/index.phtml"
+			],
+			[
+				"switch",
+				"ggmacp-trunk/application/views/scripts/management/switchinstance.phtml"
+			],
+			[
+				"custom.c",
+				"ggmacp-trunk/public/css/custom.css"
+			],
+			[
+				"pdfen",
+				"monitoring/public/scripts/monitoring/pdfengine.js"
+			],
+			[
+				"dbup",
+				"monitoring/application/views/scripts/management/dbupdate.phtml"
+			],
+			[
+				"pdfe",
+				"monitoring/public/scripts/monitoring/pdfengine.js"
+			],
+			[
+				"pdf",
+				"monitoring/public/scripts/monitoring/pdfengine.js"
+			],
+			[
+				"beanstal",
+				"monitoring/public/beanstalk_info.php"
+			],
+			[
+				"messageh",
+				"monitoring/application/views/helpers/MessageHelper.php"
+			],
+			[
+				"phtml",
+				"monitoring/application/views/scripts/monitoring/pdfengine.phtml"
+			],
+			[
+				"pdfjs",
+				"monitoring/public/scripts/monitoring/pdfengine.js"
+			],
+			[
+				"monitor",
+				"monitoring/application/models/MonitorpdfengineModel.php"
+			],
+			[
+				"cron",
+				"monitoring/application/controllers/CronjobController.php"
+			],
+			[
+				"about",
+				"resman/grappelli/static/grappelli/tinymce/jscripts/tiny_mce/themes/advanced/about.htm"
+			],
+			[
+				"show",
+				"railstest/app/views/posts/show.html.erb"
+			],
+			[
+				"how",
+				"railstest/app/views/posts/show.html.erb"
+			],
+			[
+				"_form",
+				"railstest/app/views/comments/_form.html.erb"
+			],
+			[
+				"post",
+				"railstest/app/models/post.rb"
+			],
+			[
+				"base",
+				"djangotest/templates/admin/base_site.html"
+			],
+			[
+				"urls",
+				"djangotest/djangotest/urls.py"
+			],
+			[
+				"models",
+				"djangotest/polls/models.py"
+			],
+			[
+				"doku",
+				"studienarbeit/doku.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Projekte/Software Projekte/#Projekte/m.gebetshaus.org.sublime-project"
+			]
+		],
+		"width": 493.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}
