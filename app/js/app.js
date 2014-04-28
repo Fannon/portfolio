@@ -23,10 +23,6 @@ var app = (function() {
 
     };
 
-    var registerFormHandling = function() {
-
-    };
-
     return {
 
         firstTime: true,

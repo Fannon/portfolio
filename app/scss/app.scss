@@ -16,6 +16,8 @@
 ///////////////////////////////
 
 $borderRadius: 2px;
+$baseMargin: 7px;
+$smallMargin: 4px;
 
 
 
@@ -52,43 +54,38 @@ p {
 
 #top {
 
-  padding: 16px 0 32px 0;
-
-  // background: #171717 url(../images/darth_stripe.png);
+  padding: $baseMargin 0 $baseMargin * 2 0;
+  margin: 0 0 $baseMargin * 2 0;
   color: #FFF;
 
-  background: #171717 url(../images/stripes.png) bottom left repeat-x;
-  background: -moz-linear-gradient(top,  #2a2c30 0%, #171717 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2a2c30), color-stop(100%,#171717));
-  background: -webkit-linear-gradient(top,  #2a2c30 0%,#171717 100%);
-  background: -o-linear-gradient(top,  #2a2c30 0%,#171717 100%);
-  background: -ms-linear-gradient(top,  #2a2c30 0%,#171717 100%);
-  background: linear-gradient(to bottom,  #2a2c30 0%,#171717 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2a2c30', endColorstr='#171717',GradientType=0 );
+  background: #F7F7F7;
 
   h1 {
-
-    font-size: 3em;
-    color: #FFF;
-    text-shadow: 3px 3px 3px #000;
+    font-size: 3.2em;
+    color: #000;
+    // text-shadow: 3px 3px 3px #000;
     margin: 3px 0;
   }
 
-  .subline {
-    color: #C4EE29;
+  h2.subline {
+    color: #777;
+    font-size: 1.0em;
+    margin-top: 0;
   }
+
+
 }
 
 #logo-top,
 #logo-bottom {
 
   width: 100%;
-  height: 8px;
+  height: $baseMargin;
   background: #171717;
   z-index: 999;
   color: #FFF;
 
-  margin: 0 0 16px 0;
+
 
   .logo-left, .logo-right, .logo-1, .logo-2, .logo-3, .logo-4 {
     position: absolute;
@@ -134,46 +131,8 @@ p {
 }
 
 #logo-bottom {
-  height: 4px;
+  height: $baseMargin;
   margin: 0;
-}
-
-
-.vcard {
-  display: block;
-  border: none;
-  padding: 3px 3px 10px 3px;
-
-
-  img {
-    border: 1px solid #CCC;
-    padding: 2px;
-    border-radius: $borderRadius;
-  }
-
-
-  .fn {
-    display: block;
-    margin: 8px 0;
-    font-size: 1.2em;
-  }
-
-  .email,
-  .adr,
-  .tel {
-    font-size: 0.85em;
-    padding-top: 0px;
-  }
-
-}
-
-footer {
-  font-size: 0.8em;
-  color: #777;
-  margin: 4px 0;
-  padding: 4px 0;
-  border-top: 1px dotted #CCC;
-
 }
 
 
@@ -187,7 +146,7 @@ footer {
 
     .row {
 
-        margin: 0 0 8px 0;
+        margin: 0 0 $baseMargin 0;
         background: #F7F7F7;
         // border: 1px solid #EEE;
         border-radius: $borderRadius;
@@ -202,7 +161,7 @@ footer {
 
     .center-image {
         text-align: center;
-        margin-bottom: 8px;
+        margin-bottom: $baseMargin;
     }
 
 
@@ -228,8 +187,38 @@ footer {
     }
 }
 
-textarea {
-    height: 120px;
+#mycontactform {
+
+  textarea {
+    height: $baseMargin * 7;
+  }
+
+  #submit {
+    margin-bottom: $smallMargin;
+  }
+}
+
+#person-details {
+
+  .imagewrapper {
+    text-align: center;
+  }
+
+  img {
+    border: 1px solid #CCC;
+    padding: 2px;
+    border-radius: $borderRadius;
+  }
+
+}
+
+footer {
+  font-size: 0.8em;
+  color: #777;
+  margin: $smallMargin 0;
+  padding: $smallMargin 0;
+  border-top: 1px dotted #CCC;
+
 }
 
 
@@ -237,12 +226,19 @@ textarea {
 
 #social-media {
 
+    text-align: center;
+    margin: $baseMargin 0;
+
     .fa:hover {
         opacity: 0.8;
     }
 
     .fa-fw {
         width: 1em !important;
+    }
+
+    .fa-envelope {
+      color: #B0B0B0;
     }
 
     .fa-facebook-square {
@@ -264,6 +260,12 @@ textarea {
     .fa-stack-overflow {
         color: #FF9900;
     }
+}
+
+#simon-heimler {
+  .fa-li {
+      top: 0.28em;
+  }
 }
 
 ///////////////////////////////
