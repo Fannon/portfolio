@@ -50,14 +50,6 @@ module.exports = function(grunt) {
 			},
 		},
 
-		uncss: {
-			dist: {
-				files: {
-					'.tmp/concat/css/app.min.css': ['app/**/*.html', '!app/bower_components/**']
-				}
-			}
-		},
-
 		uglify: {
 			options: {
 				preserveComments: 'some',
@@ -122,7 +114,6 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-contrib-clean');
 	grunt.loadNpmTasks('grunt-contrib-copy');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
-	grunt.loadNpmTasks('grunt-uncss');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
 	grunt.loadNpmTasks('grunt-contrib-concat');
 	grunt.loadNpmTasks('grunt-contrib-jshint');
