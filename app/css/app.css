@@ -2131,6 +2131,9 @@ h3 {
 p {
   margin-bottom: 0.5rem; }
 
+.muted {
+  color: #777; }
+
 #top {
   padding: 7px 0 14px 0;
   margin: 0 0 14px 0;
