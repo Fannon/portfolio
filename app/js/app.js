@@ -40,24 +40,6 @@ var app = (function() {
             animateElement($('.logo-3'), 30, 50, 80, 90, minTime, maxTime);
             animateElement($('.logo-4'), 70, 80, 100, 100, minTime, maxTime);
 
-        },
-
-        registerForm: function() {
-            var $mycontactform = $('#mycontactform');
-
-            $mycontactform.on('valid', function() {
-                var data = $mycontactform.serialize();
-                data += '&token=nByqVq7bDwq67DKg';
-
-                $.post('/mail.php', data, function(response) {
-                    $('#success').html(response).show().delay(5000).slideUp('slow');
-                });
-            });
-
-            // Prevent Submit default behaviour
-            $mycontactform.submit(function(e) {
-                e.preventDefault();
-            });
         }
     };
 
@@ -72,8 +54,5 @@ var app = (function() {
 
     // Start animating the logo
     app.animateLogo();
-
-    // Register Contact Form Event Handling
-    app.registerForm();
 
 })();

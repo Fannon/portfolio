@@ -7,9 +7,6 @@
 @import "foundation/components/grid";
 @import "foundation/components/global";
 @import "foundation/components/type";
-@import "foundation/components/forms";
-@import "foundation/components/buttons";
-@import "foundation/components/alert-boxes";
 
 ///////////////////////////////
 // Custom Variables          //
@@ -25,21 +22,21 @@ $smallMargin: 4px;
 // Typographpy               //
 ///////////////////////////////
 
-@font-face {
-  font-family: 'TitilliumWeb';
-  src: url('../fonts/TitilliumWeb-Regular.eot');
-  src: url('../fonts/TitilliumWeb-Regular.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/TitilliumWeb-Regular.woff') format('woff'),
-  url('../fonts/TitilliumWeb-Regular.ttf') format('truetype'),
-  url('../fonts/TitilliumWeb-Regular.svg#TitilliumWeb-Light') format('svg');
-}
+// @font-face {
+//   font-family: 'TitilliumWeb';
+//   src: url('../fonts/TitilliumWeb-Regular.eot');
+//   src: url('../fonts/TitilliumWeb-Regular.eot?#iefix') format('embedded-opentype'),
+//   url('../fonts/TitilliumWeb-Regular.woff') format('woff'),
+//   url('../fonts/TitilliumWeb-Regular.ttf') format('truetype'),
+//   url('../fonts/TitilliumWeb-Regular.svg#TitilliumWeb-Light') format('svg');
+// }
 
 h1, h2, h3, h4 {
-  font-family: 'TitilliumWeb',sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 h3 {
-  font-size: 32px;
+  font-size: 1.7em;
   border-bottom: 1px dotted #CCC;
 }
 
@@ -146,6 +143,7 @@ p {
         margin: 0;
         padding: 0;
         text-transform: uppercase;
+        font-size: 1.4em;
     }
 
     .row {

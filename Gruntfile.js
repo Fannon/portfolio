@@ -121,8 +121,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-usemin');
 
 	grunt.registerTask('default', ['sass', 'connect:app', 'watch']);
-	grunt.registerTask('validate-js', ['jshint']);
-	grunt.registerTask('server-dist', ['connect:dist']);
-	grunt.registerTask('build', ['sass', 'clean:dist', 'validate-js', 'useminPrepare', 'copy:dist', 'concat', 'cssmin', 'uglify', 'usemin']);
+	grunt.registerTask('test', ['jshint']);
+	grunt.registerTask('build', ['sass', 'clean:dist', 'test', 'useminPrepare', 'copy:dist', 'concat', 'cssmin', 'uglify', 'usemin']);
 
 };
