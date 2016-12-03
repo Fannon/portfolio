@@ -1702,7 +1702,7 @@ blockquote p {
   h3 {
     page-break-after: avoid; } }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
   font-family: 'Titillium Web', sans-serif; }
 
 h3 {
@@ -1719,7 +1719,8 @@ p {
   padding: 7px 0 14px 0;
   margin: 0 0 14px 0;
   color: #FFF;
-  background: #F7F7F7; }
+  background: #F7F7F7;
+  border-bottom: 1px solid #EEE; }
   #top h1 {
     font-size: 3.2em;
     color: #000;
@@ -1862,3 +1863,47 @@ footer {
 
 #simon-heimler .fa-li {
   top: 0.28em; }
+
+.skill-rating {
+  display: inline-block;
+  width: 105px; }
+  .skill-rating .fa {
+    padding-right: 5px; }
+
+.skill-rating-1 {
+  color: #C4EE29; }
+
+.skill-rating-2 {
+  color: #A1D34A; }
+
+.skill-rating-3 {
+  color: #4E9596; }
+
+.skill-rating-4 {
+  color: #316EAB; }
+
+.skill-rating-5 {
+  color: #3F2B90; }
+
+.skill-domain {
+  display: inline-block; }
+
+.logo-1 {
+  left: 5%;
+  width: 25%;
+  background: #43179E; }
+
+.logo-2 {
+  left: 15%;
+  width: 35%;
+  background: #38378B; }
+
+.logo-3 {
+  left: 40%;
+  width: 50%;
+  background: #1B6FC6; }
+
+.logo-4 {
+  left: 75%;
+  width: 25%;
+  background: #C4EE29; }

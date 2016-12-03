@@ -31,13 +31,16 @@ $smallMargin: 4px;
 //   url('../fonts/TitilliumWeb-Regular.svg#TitilliumWeb-Light') format('svg');
 // }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
   font-family: 'Titillium Web', sans-serif;
 }
 
 h3 {
   font-size: 1.7em;
   border-bottom: 1px dotted #CCC;
+}
+h5 {
+
 }
 
 p {
@@ -58,8 +61,8 @@ p {
   padding: $baseMargin 0 $baseMargin * 2 0;
   margin: 0 0 $baseMargin * 2 0;
   color: #FFF;
-
   background: #F7F7F7;
+  border-bottom: 1px solid #EEE;
 
   h1 {
     font-size: 3.2em;
@@ -73,8 +76,6 @@ p {
     font-size: 1.0em;
     margin-top: 0;
   }
-
-
 }
 
 #logo-top,
@@ -270,6 +271,57 @@ footer {
   }
 }
 
+
+
 ///////////////////////////////
-// 3rd Party                 //
+// SKILLS                    //
 ///////////////////////////////
+
+
+.skill-rating {
+  display: inline-block;
+  width: 105px;
+  .fa {
+    padding-right: 5px;
+  }
+}
+.skill-rating-1 {
+  color: #C4EE29;
+}
+.skill-rating-2 {
+  color: #A1D34A;
+}
+.skill-rating-3 {
+  color: #4E9596;
+}
+.skill-rating-4 {
+  color: #316EAB;
+}
+.skill-rating-5 {
+  color: #3F2B90;
+}
+.skill-domain {
+  display: inline-block;
+
+}
+
+  .logo-1 {
+    left: 5%;
+    width: 25%;
+    background: #43179E;
+  }
+  .logo-2 {
+    left: 15%;
+    width: 35%;
+    background: #38378B;
+  }
+  .logo-3 {
+    left: 40%;
+    width: 50%;
+    background: #1B6FC6;
+  }
+  .logo-4 {
+    left: 75%;
+    width: 25%;
+    background: #C4EE29;
+  }

@@ -40,6 +40,14 @@ var app = (function() {
             animateElement($('.logo-3'), 30, 50, 80, 90, minTime, maxTime);
             animateElement($('.logo-4'), 70, 80, 100, 100, minTime, maxTime);
 
+        },
+
+        displayRating: function() {
+            $('.skill-rating-1').html('<i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i>');
+            $('.skill-rating-2').html('<i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i>');
+            $('.skill-rating-3').html('<i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i>');
+            $('.skill-rating-4').html('<i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i>');
+            $('.skill-rating-5').html('<i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i>');
         }
     };
 
@@ -51,6 +59,8 @@ var app = (function() {
 
     //foundation init
     $(document).foundation();
+
+    app.displayRating();
 
     // Start animating the logo
     app.animateLogo();
