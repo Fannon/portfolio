@@ -43,11 +43,11 @@ var app = (function() {
         },
 
         displayRating: function() {
-            $('.skill-rating-1').html('<i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i>');
-            $('.skill-rating-2').html('<i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i>');
-            $('.skill-rating-3').html('<i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i>');
-            $('.skill-rating-4').html('<i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i>');
-            $('.skill-rating-5').html('<i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i>');
+            $('.skill-rating-1').html('<span class="tooltip" title="Basic knowledge without project experience"><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i></span>');
+            $('.skill-rating-2').html('<span class="tooltip" title="Basic knowledge with some project experience"><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i></span>');
+            $('.skill-rating-3').html('<span class="tooltip" title="Good knowlede with some project experience"><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i></span>');
+            $('.skill-rating-4').html('<span class="tooltip" title="Good knowledge with years of project experience"><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i></span>');
+            $('.skill-rating-5').html('<span class="tooltip" title="Excellent knowledge with years of project experience"><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i></span>');
         }
     };
 
@@ -57,12 +57,20 @@ var app = (function() {
 
     'use strict';
 
-    //foundation init
-    $(document).foundation();
+    $(document).ready(function() {
 
-    app.displayRating();
+        app.displayRating();
 
-    // Start animating the logo
-    app.animateLogo();
+        $('.tooltip').tooltipster({
+            animation: 'fade',
+            animationDuration: 0,
+            delay: 0,
+            theme: 'tooltipster-borderless'
+        });
 
+        $(document).foundation();
+
+        // Start animating the logo
+        app.animateLogo();
+    });
 })();

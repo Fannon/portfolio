@@ -1707,6 +1707,7 @@ h1, h2, h3, h4, h5 {
 
 h3 {
   font-size: 1.7em;
+  margin: 16px 0 4px 0;
   border-bottom: 1px dotted #CCC; }
 
 p {
@@ -1863,6 +1864,11 @@ footer {
 
 #simon-heimler .fa-li {
   top: 0.28em; }
+
+#skill-section h4 {
+  font-size: 1.35rem;
+  margin: 12px 0 2px 0;
+  border-bottom: 1px solid #EEE; }
 
 .skill-rating {
   display: inline-block;
