@@ -47,7 +47,7 @@ var app = (function() {
             $('.skill-rating-2').html('<span class="tooltip" title="Basic knowledge with some project experience"><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i></span>');
             $('.skill-rating-3').html('<span class="tooltip" title="Good knowlede with some project experience"><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i><i class="fa fa-circle-o"></i></span>');
             $('.skill-rating-4').html('<span class="tooltip" title="Good knowledge with years of project experience"><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle-o"></i></span>');
-            $('.skill-rating-5').html('<span class="tooltip" title="Excellent knowledge with years of project experience"><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i></span>');
+            $('.skill-rating-5').html('<span class="tooltip" title="Advanced knowledge with years of project experience"><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i><i class="fa fa-circle"></i></span>');
         }
     };
 

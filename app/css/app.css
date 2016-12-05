@@ -1913,3 +1913,11 @@ footer {
   left: 75%;
   width: 25%;
   background: #C4EE29; }
+
+.education {
+  margin: 0 0 7px 0;
+  background: #F7F7F7;
+  border-radius: 2px;
+  padding: 0 5px; }
+  .education h4 {
+    margin-bottom: 2px; }
